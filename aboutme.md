@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Author Page
-subtitle: Leyao HUANG, Shuyu CAO, Jinyu LIU, Anupa KUJUR
+subtitle: **Leyao HUANG, Shuyu CAO, Jinyu LIU, Anupa KUJUR**
 ---
-##Leyao HUANG
-In charge of
+## Leyao HUANG  
+- In charge of
 
-##Shuyu CAO
+## Shuyu CAO
 
-##Jinyu LIU
+## Jinyu LIU
 
-##Anupa KUJUR
+## Anupa KUJUR
 
 My name is Inigo Montoya. I have the following qualities:
 
