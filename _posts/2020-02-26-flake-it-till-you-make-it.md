@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction
-subtitle: Are certain demographic groups unintentionally more frequently exposed to financial product advertisements that carry risk—and is this pattern driven by the platform’s own delivery algorithms?
+subtitle:  Risk of Tageted financial advertising on META
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
