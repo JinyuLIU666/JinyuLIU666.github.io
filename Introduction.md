@@ -1,3 +1,8 @@
+---
+layout: page
+title: Introduction
+---
+
 Advertising platforms such as Meta have become key channels through which users access financial service information, including loans, insurance, and credit scoring. According to Meta’s own data, more than two billion people use Facebook every month, making it a vital platform for businesses to reach potential customers. Meta operates a closed advertising ecosystem that serves only its own platform users, claiming to support advertisers throughout the entire customer lifecycle and thereby increasing marketing efficiency.
  
 However, this advertising infrastructure is far from neutral. Meta’s ad system allows advertisers to narrow their target audience by attributes such as interests, gender, and location. Its algorithms prioritize users who are predicted to be more likely to engage with the ad. While this personalization ostensibly improves efficiency, it also has the potential to systematically shape who has access to what kind of information, raising concerns about structural inequality.
