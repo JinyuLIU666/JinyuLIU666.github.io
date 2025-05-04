@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Author Page
-subtitle: **Leyao HUANG, Shuyu CAO, Jinyu LIU, Anupa KUJUR**
+subtitle: Leyao HUANG, Shuyu CAO, Jinyu LIU, Anupa KUJUR
 ---
 ## Leyao HUANG  
 - In charge of
