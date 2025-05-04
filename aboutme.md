@@ -1,8 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Author Page
+subtitle: Leyao HUANG, Shuyu CAO, Jinyu LIU, Anupa KUJUR
 ---
+##Leyao HUANG
+In charge of
+
+##Shuyu CAO
+
+##Jinyu LIU
+
+##Anupa KUJUR
 
 My name is Inigo Montoya. I have the following qualities:
 
