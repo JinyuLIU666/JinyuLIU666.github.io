@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Introduction
 subtitle:  Risk of Tageted financial advertising on META
 cover-img: /assets/img/path.jpg
